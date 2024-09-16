@@ -14,8 +14,8 @@ Hello! I'm Guilherme, a passionate programmer from Brazil 🇧🇷, currently un
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-luiz-pereira-de-almeida-173874295/)
 
 ## 📈 GitHub Stats:
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucho-op&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bucho-op&layout=compact&theme=radical)
