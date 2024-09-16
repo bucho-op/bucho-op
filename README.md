@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Guilherme, a passionate programmer from Brazil 🇧🇷, currently undergraduate at USP (University of São Paulo). 
+a passionate programmer from Brazil 🇧🇷, currently undergraduate at USP (University of São Paulo). 
 
 - 🔭 I’m currently working on: **A mobile app project for bikers**
 - 🌱 I’m currently learning: **Machine Learning and Competitive Programming**
