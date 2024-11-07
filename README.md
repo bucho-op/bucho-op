@@ -15,7 +15,7 @@ a passionate programmer from Brazil 🇧🇷, currently undergraduate at USP (Un
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-luiz-pereira-de-almeida-173874295/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)][https://codeforces.com/profile/bucho_op]
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/bucho_op)
 
 ## 📈 GitHub Stats:
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucho-op&show_icons=true&theme=radical)
