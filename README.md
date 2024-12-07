@@ -1,10 +1,6 @@
 # 💫 About Me:
-a passionate programmer from Brazil 🇧🇷, currently undergraduate at USP (University of São Paulo). 
+a passionate programmer from Brazil 🇧🇷, currently undergraduate at USP (University of São Paulo). i love competitive programming.
 
-- 🔭 I’m currently working on: **A mobile app project for bikers**
-- 🌱 I’m currently learning: **Machine Learning and Competitive Programming**
-- 💬 Ask me about: **Coffee, games and movies**
-  
 
 ## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
